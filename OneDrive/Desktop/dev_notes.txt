@@ -1,5 +1,5 @@
 
 Updates from main branch
-Initaial Development notes
+Initiall Development notes
 More detailed development notes
 
